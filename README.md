@@ -1,25 +1,55 @@
-# Hi 👋, I'm alexwest1981
+# 👋 Hey there, I'm Alex Weström
 
-### A passionate Java developer
+### 🚀 Passionate Java Developer | System Architect | Tech Enthusiast
 
-- 🔭 I'm currently working on **A robust JavaFX‑based administration system for snowmobile and equipment rentals.
-It covers the entire rental workflow – from inventory and customer management to pricing, receipts, and analytics.**
+I craft **robust, scalable systems** with a focus on **clean architecture, performance, and exceptional UX**.  
+Currently building a **comprehensive JavaFX administration platform** for **snowmobile & equipment rentals** – handling everything from **inventory & customer management** to **dynamic pricing, receipts, and analytics dashboards**.
 
-- 🌱 I'm currently learning **JavaFX, JSON and streams**
+---
 
-- 📫 How to reach me **alexwestrom81@gmail.com**
+### 🌱 Currently Learning & Mastering
+- 🎨 **JavaFX** for modern desktop UIs
+- 🗃️ **SQL/JSON** integration & data migration
+- 🌊 **Java Streams** for efficient data processing
+- 🧩 **System refactoring** & microservices patterns
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💡 About Me
+Detail-oriented developer who believes in **incremental excellence**, **crystal-clear commit histories**, and **self-documenting codebases**.  
+Every line I write is built to last – understandable months later by any teammate.
+
+When offline, you'll find me **3D printing** custom parts, diving into **retro gaming** 🎮, or experimenting with **AI dev tools**.
+
+---
+
+### 💼 Experience & Projects
+📄 [Full CV & Portfolio](https://1drv.ms/b/c/350c9cc67cab4adb/IQDZ7spUs797RLbu_pGR4cX-Ad9cZZGAu8BpSvoU6h0CQ7M?e=Ssfggj)
+
+---
+
+### 🛠️ Tech Stack & Editors
 <p align="left">
-<a href="https://github.com/alexwest1981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alexwest1981" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-westr%C3%B6m-67a96156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-westr%C3%B6m-67a96156/" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,php,mysql,mongodb,sqlite,git,linux,figma,ps,ai,unity,vscode" alt="Tech Stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+**Editors & AI tools:** IntelliJ IDEA, Visual Studio Code, Windsurf, Cursor
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwest1981&show_icons=true&locale=en&layout=compact" alt="alexwest1981" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexwest1981&show_icons=true&locale=en" alt="alexwest1981" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexwest1981&show_icons=true&theme=radical&hide_border=true" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexwest1981&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
+### 🌐 Let's Connect
+<p align="left">
+  <a href="https://github.com/alexwest1981"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/alex-westr%C3%B6m-67a96156/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alexwestrom81@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+[![Footer](https://img.shields.io/badge/Built%20with-%E2%9D%A4%EF%B8%8F-brightgreen)](https://github.com/alexwest1981)
