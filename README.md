@@ -30,10 +30,10 @@ When offline, you'll find me **3D printing** custom parts, diving into **retro g
 
 ### 🛠️ Tech Stack & Editors
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,php,mysql,mongodb,sqlite,git,linux,figma,ps,ai,unity,vscode,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,tailwind,php,react,mysql,mongodb,sqlite,postgresql,hibernate,git,bash,npm,vite,linux,windows,apple,ubuntu,raspberrypi,figma,ps,ai,unity,godot,vscode,idea,dotnet,docker,sketchup,wordpress,linkedin" alt="Tech Stack" />
 </p>
 
-**Editors & AI tools:** IntelliJ IDEA, Visual Studio Code, Windsurf, Cursor
+**Editors & AI tools:** Visual Studio Code, Windsurf, Cursor
 
 ---
 
